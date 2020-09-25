@@ -21,7 +21,12 @@ export class AppComponent {
     {  title: '3',
     imageUtl : 'assets/mountain.jpeg',
     username: 'dog',
-    content: 'let us go to the mountain'
+    content: 'Let us go to the mountain'
+    },
+    {  title: '4',
+    imageUtl : 'assets/biking.jpeg',
+    username: 'hello kitty',
+    content: 'We wish you a merry christmas'
     }
   ]
 
